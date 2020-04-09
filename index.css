@@ -1,0 +1,33 @@
+.dropdown:hover >.dropdown-menu
+{
+display: block;
+}
+li {
+    margin: 0px 20px;
+}
+.nav-link ,.navbar-brand{
+    font-size: large;
+    color: rgb(63, 60, 63)!important;
+}
+.card{
+    border: none;
+}
+.Portfolio:focus{
+color: snow!important;
+background-color: rgb(34, 151, 197)!important;
+}
+
+
+
+
+
+.swiper-pagination-bullet {
+	padding: 10px;
+	border-radius: 100%;
+	opacity: 1;
+	background: rgba(6, 220, 248, 0.2);
+}
+.swiper-pagination-bullet-active {
+	
+	background: #069297;
+}
